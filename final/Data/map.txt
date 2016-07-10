@@ -1,0 +1,42 @@
+<Embarked>
+Q	2
+S	0
+C	1
+</Embarked>
+
+<Parch>
+3	4
+2	2
+1	1
+0	0
+6	6
+5	3
+4	5
+</Parch>
+
+<Pclass>
+3	0
+2	2
+1	1
+</Pclass>
+
+<SibSp>
+3	2
+2	4
+1	0
+0	1
+5	5
+4	3
+8	6
+</SibSp>
+
+<Survived>
+1	1
+0	0
+</Survived>
+
+<Sex>
+female	1
+male	0
+</Sex>
+
